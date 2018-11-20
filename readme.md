@@ -14,5 +14,6 @@
 
 * la vie de jeux
 [cliqué ici](https://www.youtube.com/watch?v=hlznpxNGFGQ)
-<a name="ancre"></a> <br>
+<a name="ancre"></a> 
+<br>
 <a>[retour en haut](#stop)</a>
