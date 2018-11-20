@@ -9,9 +9,9 @@
 
 # les listes
 
-1.jeux
-1.loisir
-1.gamer
+1. jeux
+1. loisir
+1. gamer
 
 * la vie de jeux
 
